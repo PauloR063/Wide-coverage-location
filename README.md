@@ -23,4 +23,12 @@ Este projeto é uma página web responsiva com um layout moderno. Ele é desenvo
 - Demonstrar boas práticas de estruturação semântica em HTML.
 - Criar um layout responsivo utilizando CSS.
 - Organizar o código de forma limpa e modular para fácil manutenção.
+ ---
+
+ <div style= "text-align: center;" align="center">
+  <img src="https://github.com/PauloR063/Wide-coverage-location/blob/main/img/Aesthetic%20Phone.png?raw=true" alt="Descrição da Imagem 1" width="200">
+  <br>
+  <img src="https://github.com/PauloR063/Wide-coverage-location/blob/main/img/Aesthetic%20Desktop.png?raw=true" alt="Descrição da Imagem 2" width="300">
+</div>
+
 
