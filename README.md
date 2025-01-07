@@ -1,6 +1,6 @@
 # Projeto Wide coverage
 
-Este é um projeto de exemplo criado para demonstrar a utilização de HTML5 e CSS3 no desenvolvimento de páginas web. O foco é apresentar boas práticas na estruturação de conteúdo e estilização, criando uma experiência visual agradável e responsiva.
+Este é um projeto de exemplo criado para demonstrar a utilização de HTML e CSS no desenvolvimento de páginas web. O foco é apresentar boas práticas na estruturação de conteúdo e estilização, criando uma experiência visual agradável e responsiva.
 
 ## 🚀 Tecnologias Utilizadas
 
